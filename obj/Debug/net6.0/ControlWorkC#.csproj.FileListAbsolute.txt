@@ -1,0 +1,15 @@
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.csproj.AssemblyReference.cache
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEI\ControlWorkC#\bin\Debug\net6.0\ControlWorkC#.exe
+C:\LEI\ControlWorkC#\bin\Debug\net6.0\ControlWorkC#.deps.json
+C:\LEI\ControlWorkC#\bin\Debug\net6.0\ControlWorkC#.runtimeconfig.json
+C:\LEI\ControlWorkC#\bin\Debug\net6.0\ControlWorkC#.dll
+C:\LEI\ControlWorkC#\bin\Debug\net6.0\ControlWorkC#.pdb
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.AssemblyInfoInputs.cache
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.AssemblyInfo.cs
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.csproj.CoreCompileInputs.cache
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.dll
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\refint\ControlWorkC#.dll
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.pdb
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ControlWorkC#.genruntimeconfig.cache
+C:\LEI\ControlWorkC#\obj\Debug\net6.0\ref\ControlWorkC#.dll
